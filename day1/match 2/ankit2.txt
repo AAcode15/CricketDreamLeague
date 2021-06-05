@@ -1,0 +1,7 @@
+shivam 142.0
+gaurav 3.0
+pratham -9.0
+shubham 25.0
+harshit -8.0
+naitik 43.0
+akhil -6.0

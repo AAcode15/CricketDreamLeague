@@ -1,0 +1,7 @@
+shivam 142.0
+harshit -12.0
+pushpak -8.0
+gaurav 2.0
+shubham 25.0
+vedant -6.0
+shreyansh 2.0

@@ -1,0 +1,7 @@
+ankit 26.0
+jitesh 66.0
+rishavA -6.0
+anubhav 48.0
+gaurav -2.0
+adarsh 24.0
+vedant 30.0

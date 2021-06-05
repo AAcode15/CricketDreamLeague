@@ -1,0 +1,7 @@
+anuj 56.0
+ankit 19.5
+anubhav 48.0
+shubham 3.0
+madhu 18.0
+naitik 17.0
+tanay 0.0

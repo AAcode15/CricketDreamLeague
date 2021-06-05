@@ -1,0 +1,7 @@
+shivam 142.0
+gaurav 3.0
+pushpak -8.0
+pratham -9.0
+adarsh 60.0
+naitik 43.0
+vedant -6.0

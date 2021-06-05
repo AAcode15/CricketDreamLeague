@@ -1,0 +1,7 @@
+shivam 142.0
+harshit -12.0
+pratham -9.0
+ankit 68.0
+pushpak -8.0
+tanay -6.0
+shubham 25.0

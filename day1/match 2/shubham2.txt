@@ -1,0 +1,7 @@
+ankit 136.0
+harshit -12.0
+gaurav 2.0
+naitik 43.0
+pratham -9.0
+shubham 25.0
+akhil -6.0

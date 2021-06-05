@@ -1,0 +1,7 @@
+jitesh 88.0
+anuj 42.0
+anubhav 48.0
+shubham 3.0
+rishavA -6.0
+naitik 17.0
+gaurav -2.0

@@ -1,0 +1,7 @@
+gaurav 4.0
+harshit -12.0
+krishna 18.0
+pratham -9.0
+vedant -6.0
+pushpak -8.0
+naitik 43.0

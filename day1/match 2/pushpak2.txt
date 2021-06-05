@@ -1,0 +1,7 @@
+shivam 142.0
+naitik 64.5
+pushpak -8.0
+pratham -9.0
+ankit 68.0
+shubham 25.0
+adarsh 60.0
